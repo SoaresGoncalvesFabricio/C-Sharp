@@ -1,0 +1,15 @@
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\bin\Debug\net6.0\ProjetoJogoDaVelha.exe
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\bin\Debug\net6.0\ProjetoJogoDaVelha.deps.json
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\bin\Debug\net6.0\ProjetoJogoDaVelha.runtimeconfig.json
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\bin\Debug\net6.0\ProjetoJogoDaVelha.dll
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\bin\Debug\net6.0\ProjetoJogoDaVelha.pdb
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.AssemblyInfo.cs
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.dll
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\refint\ProjetoJogoDaVelha.dll
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.pdb
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ProjetoJogoDaVelha.genruntimeconfig.cache
+C:\Users\fabri\C#\ProjetoJogoDaVelha\ProjetoJogoDaVelha\obj\Debug\net6.0\ref\ProjetoJogoDaVelha.dll
