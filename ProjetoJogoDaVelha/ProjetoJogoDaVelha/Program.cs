@@ -2,7 +2,7 @@
 
 namespace ProjetoJogoDaVelha
 {
-    class Program
+    class Programa
     {
         static void Main(string[] args)
         {
