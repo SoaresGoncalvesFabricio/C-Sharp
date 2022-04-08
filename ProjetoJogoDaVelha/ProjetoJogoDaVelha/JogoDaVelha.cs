@@ -100,7 +100,7 @@ namespace ProjetoJogoDaVelha
 
             while (!Conversao || !Validaescolhausuario(Posicaoescolhida))
             {
-                Console.WriteLine("O campo escolhido ´inválido, por favor digite um número entre 1 e 9 que estja disponível na tabela.");
+                Console.WriteLine("O campo escolhido é inválido, por favor digite um número entre 1 e 9 que estja disponível na tabela.");
                 Conversao = int.TryParse(Console.ReadLine(), out Posicaoescolhida);
             }
             Preencherescolha(Posicaoescolhida);
