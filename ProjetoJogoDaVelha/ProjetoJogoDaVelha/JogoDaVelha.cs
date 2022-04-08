@@ -119,7 +119,7 @@ namespace ProjetoJogoDaVelha
         {
             int indice = Posicaoescolhida - 1;
 
-            if (Posicoes[indice] == 'O' || Posicaoescolhida == 'X')
+            if (Posicoes[indice] == 'O' || Posicoes[indice] == 'X')
                
                 return false;
             

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabri\\C#\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj": {}
+    "D:\\C#\\C-Sharp\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabri\\C#\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj": {
+    "D:\\C#\\C-Sharp\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabri\\C#\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj",
+        "projectUniqueName": "D:\\C#\\C-Sharp\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj",
         "projectName": "ProjetoJogoDaVelha",
-        "projectPath": "C:\\Users\\fabri\\C#\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj",
+        "projectPath": "D:\\C#\\C-Sharp\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha.csproj",
         "packagesPath": "C:\\Users\\fabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabri\\C#\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\obj\\",
+        "outputPath": "D:\\C#\\C-Sharp\\ProjetoJogoDaVelha\\ProjetoJogoDaVelha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
